@@ -2,4 +2,4 @@
 
 ## Predicting the models of the car.
 
-### Check out the master branch also :)
+### Check out the master branch also.
